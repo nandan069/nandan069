@@ -1,10 +1,10 @@
 # 💫 About Me:
-I’m currently working on Building and developing product websites for Aarsun Woods Pvt. Ltd., 
-I’m looking to collaborate on a furniture e-commerce brand<br>web development projects, AI/ML Projects and app development.
-I’m looking for help with <br>Scailing AI/ML integrations into real-world web and mobile applications.
-I’m currently learning <br>Artificial Intelligence & Machine Learning and new programming languages.
-Ask me about <br>Web development, furniture e-commerce solutions and building product-focused websites.
- Fun fact:<br>I turn wood(and code) into something beautiful- one website at a time
+I’m currently working on Building and developing product websites for Aarsun Woods Pvt. Ltd.,<br> 
+I’m looking to collaborate on a furniture e-commerce brand web development projects, AI/ML Projects and app development.<br>
+I’m looking for help with Scailing AI/ML integrations into real-world web and mobile applications.<br>
+I’m currently learning Artificial Intelligence & Machine Learning and new programming languages.<br>
+Ask me about Web development, furniture e-commerce solutions and building product-focused websites.<br>
+ Fun fact:I turn wood(and code) into something beautiful- one website at a time
 
 
 ## 🌐 Socials:
